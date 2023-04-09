@@ -2,7 +2,7 @@
 title: anti-élitisme épistémique
 subtitle:
 author: Damien Belvèze
-date:20/06/2021
+date: 20/06/2021
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
