@@ -2,7 +2,7 @@
 title: Propagande anti-vaccination
 subtitle:
 author: Damien Belvèze
-date:
+date: 2023/04/09
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
