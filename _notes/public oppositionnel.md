@@ -1,0 +1,3 @@
+concept mis en oeuvre par Maxime Cervulle, MCF Sciences de l'information Paris 8, à l'occasion des manifestations contre l'exposition [[Exhibit B]] sur les zoos humains.
+
+Quand on refuse d'aller voir un film ou une pièce parce qu'elle heurte nos convictions, on n'est pas un "public oppositionnel" ; on ne fait simplement pas partie du public de cette oeuvre (et on ne devrait pas par conséquent avoir grand-chose à en dire) contrairement à ce que soutien Maxime Cervulle ici https://journals.openedition.org/edc/6775. Et de plus quand on "annule" (au sens de la [[Cancel culture]]) un concert ou une pièce, on fait de la [[Censure]], ni plus, ni moins que les assos d'extrême-droite qui le font depuis des décennies.

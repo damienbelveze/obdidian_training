@@ -1,0 +1,7 @@
+- Cycles courts. Permettre aux enfants un accès à des produits sourcés et locaux.  Fonds permettant de garantir un accès à la cantine pour tous à un euro.
+- Transport par le fret ferroviaire (passer de 10 à 30 %  par le fret ferroviaire d'ici 2030. pourquoi pas un Roscoff 'Rungis  ? )
+- question nucléaire  :  Diminuer l'utilisation d'énergie fossile - augmenter d'autres sources d'énergie pour faire face à la précarité énergetique et assurer réindustrialisation. Energie renouvelable + nucléaire. Question de souveraineté. Investir dans les usines nucléaires qui produisent très peu de déchets (cf. projet Astrid)
+- promouvoir une industrie européenne du panneau solaire
+- biodiversité. Systeme capitaliste prédateur  :  Artificialisation des sols, épuisement des ressources, pollution sonore et lumineuse. Développer les partenariats internationaux, présrrvation des paysages. Soutien à l'éducation environementale et populaire
+- contre la privatisation de l'ONF. Chasse  :   ok pour la régulation de sangliers. Ne pas tomber dans l'opposition.
+- promotion des produits innovants naturels pour remplacer les produits phytosanitaires. Produits en phase d'homologation. 

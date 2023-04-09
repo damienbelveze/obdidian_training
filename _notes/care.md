@@ -1,0 +1,7 @@
+Valorisation d'actions autour du soin et de l'attention portée à l'autre. Ces actions sont traditionnellement dévalorisées dans une société patriarcales car portées par des femmes souvent dans un cadre privé (soin des enfants par exemple). Penser les services publics comme des services dispensant du Care surtout après la pandémie du COVID-19 qui a montré à quel point la cohésion de la société reposait sur ces [[emploi|emplois]] socialement défavorisés permettrait de les relégitimer et de les préserver des ponctions régulière en terme de financements imposées par les régimes [[économie néo-libérale|néo-libéraux]].
+
+>La pandémie a permis de voir que les intérêts politiques et la qualité de vie d’une population dont le rôle est essentiel pour la société ne sont _pas pris en compte_. L’organisation sociale et économique s’est depuis longtemps faite au détriment de personnes qui n’ont pas eu voix au chapitre, dont une majorité sont des femmes, et une grande part sont racisées.
+
+>L’éthique du care donne aux questions ordinaires – qui prend soin de qui, et comment ? – la force et la pertinence nécessaires à l’examen critique de nos jugements politiques et moraux et de nos hiérarchies de ce qui compte
+
+(Sandra Laugier)[[@Laugiercareconstitutionpublic2021]]

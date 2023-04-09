@@ -1,0 +1,49 @@
+/***************************/
+/* Ask Al                  */
+/***************************/
+#askal {z-index: 10;}
+#askal .btn-success.btn-orange {
+  color: #fff;
+  background-color: #f68212;
+  border-color: #f68212;
+  border-radius: 4px 4px 0 0;
+}
+#askal .btn-success.btn-orange span.ext {
+  display: none;
+}
+#askal.left,
+#askal.right {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  height: 1.5em;
+  margin: auto;
+}
+
+#askal.left {
+  left: 0;
+  -webkit-transform-origin: 0 50%;
+  -moz-transform-origin: 0 50%;
+  -ms-transform-origin: 0 50%;
+  -o-transform-origin: 0 50%;
+  transform-origin: 0 50%;
+  -webkit-transform: rotate(-90deg) translate(-50%, 50%);
+  -moz-transform: rotate(-90deg) translate(-50%, 50%);
+  -ms-transform: rotate(-90deg) translate(-50%, 50%);
+  -o-transform: rotate(-90deg) translate(-50%, 50%);
+  transform: rotate(-90deg) translate(-50%, 50%);
+}
+
+#askal.right {
+  right: 0;
+  -webkit-transform-origin: 100% 0%;
+  -moz-transform-origin: 100% 0%;
+  -ms-transform-origin: 100% 0%;
+  -o-transform-origin: 100% 0%;
+  transform-origin: 100% 0%;
+  -webkit-transform: rotate(-90deg) translate(0, -48px);
+  -moz-transform: rotate(-90deg) translate(0, -48px);
+  -ms-transform: rotate(-90deg) translate(0, -48px);
+  -o-transform: rotate(-90deg) translate(0, -48px);
+  transform: rotate(-90deg) translate(0, -48px);
+}

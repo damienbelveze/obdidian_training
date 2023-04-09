@@ -1,0 +1,1 @@
+une violence peut-être vécue douloureusement à distance et sans qu'elle soit tournée contre sa personne. Elle ne sera pas ressentie de manière intime et personnelle. Cette douleur intime du monde qui va à sa perte, et bien que personnellement Stefan Zweig en ait été affecté puisqu'il a du trouver refuge au Brésil, est ce qui l'a peu à peu conduit au suicide. 

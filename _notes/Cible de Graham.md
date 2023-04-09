@@ -1,0 +1,3 @@
+Nathan Uyttendaele a mis au point à partir d'une échelle d'actions possibles pour chaque intervenant d'une discussion mise au point par le programmeur Paul Graham une représentation de ces possibilités sous la forme d'une cible : plus on s'approche du centre et plus la discussion devient riche. Plus on s'en éloigne et plus elle tourne court. La discussion piétine quand les interlocuteurs se contredisent sans apporter d'argument pour étayer leurs propos.
+
+![cible de Graham](cible_graham.png)

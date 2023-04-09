@@ -1,0 +1,3 @@
+[[Capitalisme]] reposant sur la propriété de [[brevets]] permettant d'engranger des rentes et des positions dominantes au détriment du bien commun, et cela alors même que les investissements publics ont pu permettre l'innovation qui a pu donner lieu à l'invention brevetée.
+
+Les résistances à la levée du brevet des tri-thérapies contre le SIDA dans les années 2000 et à la levée de la propriété intellectuelle sur les vaccins contre le [[Covid-19]] illustrent bien ce type de capitalisme. 
