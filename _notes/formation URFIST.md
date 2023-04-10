@@ -2,5 +2,10 @@
 title: déroulé de la formation
 ---
 
-télécharger le texte ![[libertés_académiques.odt]]
 
+<a href="libertés_académiques.odt" download>télécharger le texte</a>
+
+
+citation
+
+>[[citations]]
