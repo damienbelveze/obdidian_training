@@ -6,7 +6,7 @@ layout: default
   <div>
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      Dernière mise à jour le {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
   </div>
@@ -14,11 +14,11 @@ layout: default
   <div id="notes-entry-container">
     <content>
       {{ content }}
-      <p>This line appears after every note.</p>
+      <p>Cette ligne apparaît après chaque note.</p>
     </content>
 
     <side style="font-size: 0.9em">
-      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+      <h3 style="margin-bottom: 1em">Notes mentionnant cette note</h3>
       {% if page.backlinks.size > 0 %}
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       {% for backlink in page.backlinks %}
@@ -32,7 +32,7 @@ layout: default
 
       <div style="font-size: 0.9em">
         <p>
-          There are no notes linking to this note.
+          Il n'y a pas de note liée à cette note.
         </p>
       </div>
       {% endif %}
@@ -42,6 +42,6 @@ layout: default
 
 <hr>
 
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+<p>Voici toutes les notes de cet carnet et les liens qui les unissent sous la forme d'un graphe.</p>
 
 {% include notes_graph.html %}
