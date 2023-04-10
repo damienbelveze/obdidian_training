@@ -3,7 +3,7 @@ title: déroulé de la formation
 ---
 
 
-<a href="libertés_académiques.odt" download>télécharger le texte</a>
+<a href="libertés_académiques.pdf" download>télécharger le texte</a>
 
 
 citation
