@@ -7,11 +7,12 @@ permalink: /
 
 # Prendre en main Obsidian
 
+<img src="/assets/dall_e.jpg" alt="image réalisée avec dall-e" width="500">
+
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Accéder au support de la<span style="font-weight: bold">[[formation URFIST]]</span> pour visualiser et télécharger les fichiers utiles à la formation
 </p>
 
-Site réalisé avec Obsidian, Github et Netlify en utilisant un modèle fourni par Maxime Vaillancourt [disponible sur Github ici](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 
 
