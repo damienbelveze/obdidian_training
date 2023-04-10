@@ -1,1 +1,0 @@
-Direcrteur de recherches en sociologie au CNRS
