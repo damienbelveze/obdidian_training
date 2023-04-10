@@ -2,8 +2,16 @@
 title: déroulé de la formation
 ---
 
+# Introduction
 
-<a href="libertés_académiques.pdf" download>télécharger le texte</a>
+- Créer un coffre avec Obsidian
+
+
+
+# premières notes avec Obsidian
+
+lire rapidement le [[texte]]
+
 
 
 citation
