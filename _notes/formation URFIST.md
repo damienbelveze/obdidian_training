@@ -22,5 +22,7 @@ Visualisez les liens avec le graphe
 
 ## prendre en main la syntaxe markdown
 
-Comment mettre en forme du texte en Markdown. Consultez [[Mode d'emploi d'Obsidian#3.2 niveaux de titre, listes à puces|le guide]]. 
+Comment mettre en forme du texte en Markdown. Consultez notre [[Mode d'emploi d'Obsidian]] (à partir du paragraphe 3.2)
+
+ajouter une image : allez chercher une image de 
 

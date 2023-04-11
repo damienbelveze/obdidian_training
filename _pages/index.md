@@ -7,7 +7,7 @@ permalink: /
 
 # Prendre en main Obsidian
 
-<img src="/assets/dall_e.png" alt="image réalisée avec dall-e" width="500">
+<img src="/assets/drawing1.png" alt="image réalisée avec dall-e" width="500">
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Accéder au support de la<span style="font-weight: bold">[[formation URFIST]]</span> pour visualiser et télécharger les fichiers utiles à la formation
