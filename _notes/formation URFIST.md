@@ -83,7 +83,43 @@ toutes les références de votre bibliothèque sont pourvues de clés qui vont p
 Chercher dans les plugins communautaires le plugin Citations de John Gauthier.
 charger le plugin et l'activer
 
+Paramétrer le plugin en sélectionnant le format d'import (biblatex), en ajoutant un dossier sous .obsidian et en indiquant le nom de ce dossier à la place de *reading notes* (par défaut), en pointant vers la base de références (en .bib) exportée de Zotero. 
+
+Tous les détails sont exposés dans notre [[Mode d'emploi d'Obsidian]] au chapitre 7
+
+illustration d'une citation assortie de sa référence.
+
 > Is it the notetaking system that’s helping you think more clearly? Or is it the act of writing that forces you to clarify your thoughts? [[@bjarnasonOnlineCollaborationOur2022]]
+
+**ajouter la référence à l'article d'AOC sur les libertés académiques à l'une de vos notes**
+
+## L'importance de l'entête en yaml
+
+Les informations qui décrivent la note (=métadonnées) peuvent être encapsulées en tête de note. 
+On peut y trouver les informations suivantes : 
+- le titre de la note (éventuellement distinct du nom de fichier)
+- le nom des auteurs
+- la date de publication
+- les marqueurs associés à la note
+- les alias (synonymes, termes associés)
+
+Dans une note, le YAML est le plus souvent placé au début et encadré par deux séries de trois tirets : 
+
+````yaml
+title: Das Kapital
+subtitle: Critique de l'économie politique
+author: Karl Marx
+date: 1967
+tags: [économie politique, anticapitalisme]
+aliases: [Le Capital, The Capital]
+````
+
+## Convertir des fichiers markdown
+
+On peut exporter une note prise avec Obsidian directement depuis l'éditeur (exporter en PDF), mais dans ce cas, les références présentes dans le texte et la bibliographie ne seront pas prises en compte
+
+On peut utiliser pandoc et la suite LaTeX installée sur l'ordinateur pour convertir des fichiers en markdown. On peut simplement utiliser Pandoc pour tous les autres formats de sortie.
+
 
 
 
