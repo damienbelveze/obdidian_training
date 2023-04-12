@@ -1,7 +1,7 @@
 ---
 titre: Baldur Bjarnason
 auteurs: Baldur Bjarnason
-année 
+année: 2022 
 lien: https://www.baldurbjarnason.com/
 ---
 
