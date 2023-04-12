@@ -4,6 +4,8 @@ title: déroulé de la formation
 
 ## Introduction
 
+[[Obsidian pour la prise de notes|Intérêt d'Obsidian pour la gestion de ses notes]]
+
 Présentation de la méthode Zettelkasten
 
 - Créer un coffre avec Obsidian (suivre la démo)
