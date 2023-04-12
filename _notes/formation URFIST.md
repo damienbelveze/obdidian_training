@@ -1,5 +1,6 @@
 ---
 title: déroulé de la formation
+date: 11/04/2023
 ---
 
 ## Introduction
@@ -25,9 +26,11 @@ Visualisez les liens avec le graphe
 
 ## prendre en main la syntaxe markdown
 
+
 ### Comment mettre en forme du texte en Markdown. 
 
-Consultez notre [[Mode d'emploi d'Obsidian]] (à partir du paragraphe 3.2)
+Parcourez la note [[Rédiger ses notes en markdown]] pour prendre connaissance de cette syntaxe et de ce qu'elle permet de faire. 
+
 Tester dans votre note l'italique, le gras, le surligné. 
 faites une citation du texte en utilisant la balise correspondante. 
 
@@ -57,7 +60,32 @@ ajouter le tableau [importation de pommes](https://obsidian.dbelveze.fr/assets/i
 
 Au choix, rédiger ce tableau en markdown ou bien utiliser le service en ligne [Table2markdown](https://tabletomarkdown.com/)
 
-Consulter le [[Mode d'emploi d'Obsidian]] sur les tableaux (section 3.3)
+
+## Les plugins dans Obsidian
+
+La richesse d'Obsidian tient au nombre en croissance rapide des plugins qui rendent cet outil adaptable à un grand nombre de tâches. 
+
+Il existe deux types de plugins : 
+
+- Les plugins par défaut 
+- Les plugins communautaires
+
+Les premiers sont installés en même temps qu'Obsidian, il ne reste plus qu'à les activer si on souhaite s'en servir.
+
+Les seconds nécessitent la désactivation du mode sans échec (aller dans les paramètres > plugins tiers > désactiver le mode sans échec).
+A partir de là, pour trouver un plugin communautaire : 
+
+- soit on passe par le catalogue des plugins depuis Obsidian (parcourir la liste des plugins communautaires)
+- soit on va chercher le plugin sur github, là où il a été déposé par le concepteur. C'est sur github, par exemple, qu'on doit aller chercher le plugin qui permet de faire un export d'une note depuis Obsidian en PDF à l'aide de Pandoc. 
+
+Quelque soit le type de plugin, on peut paramétrer leur utilisation dans les paramètres une fois qu'il a été installé et activé (dans les Paramètres, descendre jusqu'au menu *option des plugins*)
+
+Il est très utile de paramétrer des **raccourcis-clavier** pour chaque fonctionnalité appartenant ou non à un plugin. Cela fait gagner beaucoup de temps au quotidien (paramètres > options > raccourcis-clavier ; chercher la fonctionnalité par son nom et lui associer une combinaison de touches ; par exemple créer un graphique local à partir de la note ouverte = shift+Ctrl+G).
+
+chaque plugin chargé est associé à un coffre en particulier et si vous avez plusieurs coffres, il faudra charger à l'intérieur de chacun d'eux un même plugin. Cela se voit bien au niveau de l'arborescence Windows : le logiciel Obsidian est chargé par défaut au niveau du C:/Programmes, les coffres sont hébergés ailleurs (où l'utilisateur le souhaite), dans ces coffres, les plugins se trouvent sous .obsidian > plugins
+
+Plus d'information sur les [[Les plugins par défaut]]
+
 
 ## ajouter des citations
 
@@ -87,7 +115,7 @@ charger le plugin et l'activer
 
 Paramétrer le plugin en sélectionnant le format d'import (biblatex), en ajoutant un dossier sous .obsidian et en indiquant le nom de ce dossier à la place de *reading notes* (par défaut), en pointant vers la base de références (en .bib) exportée de Zotero. 
 
-Tous les détails sont exposés dans notre [[Mode d'emploi d'Obsidian]] au chapitre 7
+Tous les détails sont exposés dans  [[Utiliser Obsidian avec Zotero|une note consacrée au sujet]]
 
 illustration d'une citation assortie de sa référence.
 

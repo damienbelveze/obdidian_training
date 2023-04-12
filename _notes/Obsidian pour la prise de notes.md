@@ -6,7 +6,7 @@ tags: [guide_obsidian]
 
 
 
-![[tweet_schaller.png|{width=50%}]]
+![](images/tweet_schaller.png){width=50%}]]
 
 ## 1. intérêts de la prise de note pour le travail intellectuel
 
