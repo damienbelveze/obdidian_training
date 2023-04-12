@@ -65,7 +65,7 @@ Depuis la version 6 de Zotero, il est possible d'envoyer des notes prises dans Z
 
 (démonstration)
 
-lien vers la note [[Annotations_systems_thinking.md]]
+lien vers la note [[Annotations_systems_thinking]]
 
 ### le pluginbetterbibtex
 
