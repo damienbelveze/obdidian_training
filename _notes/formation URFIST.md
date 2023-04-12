@@ -57,4 +57,6 @@ Au choix, rédiger ce tableau en markdown ou bien utiliser le service en ligne [
 
 Consulter le [[Mode d'emploi d'Obsidian]] sur les tableaux (section 3.3)
 
+## ajouter des citations
 
+### le pluginbetterbibtex
