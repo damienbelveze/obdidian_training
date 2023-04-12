@@ -44,14 +44,14 @@ Deux précautions à prendre :
 
 
 <p align="left">
-	<img align="left"  src="assets/390px_Fariba.jpg">
+	<img align="left"  src="assets/390px_Fariba.jpg">exemple</img>
 </p>
 
-<p align="left">
+
 centrer cette image et en réduire la largeur en ajoutant un peu de balisage html : 
 
 ``![Fariba Adelkhak](images/390px_Fariba.jpg){width=200px}``
-</p>
+
 
 <p align="left">
 	<img width="200" src="assets/390px_Fariba.jpg">
