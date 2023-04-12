@@ -44,7 +44,7 @@ Deux précautions à prendre :
 
 
 <p align="left">
-	<img align="left"  src="assets/390px_Fariba.jpg">exemple</img>
+	<img  src="assets/390px_Fariba.jpg">
 </p>
 
 
