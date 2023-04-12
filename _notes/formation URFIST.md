@@ -67,12 +67,27 @@ Depuis la version 6 de Zotero, il est possible d'envoyer des notes prises dans Z
 
 lien vers la note [[Annotations_systems_thinking]]
 
-### le pluginbetterbibtex
+autre workflow possible: utiliser le plugin betterbibtex dans Zotero en lien avec le plugin Citations dans Obsidian
+
+### le plugin Betterbibtex
 
 Ce qui suit se fait à partir de Zotero. 
 
 - Aller sur le [répertoire où se trouve le plugin](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.71)
 - télécharger le plugin et le charger dans Zotero (comme extension)
-- 
+
+toutes les références de votre bibliothèque sont pourvues de clés qui vont permettre de les utiliser dans des éditeurs de texte comme Obsidian.
+
+### le plugin Citations
+
+Chercher dans les plugins communautaires le plugin Citations de John Gauthier.
+charger le plugin et l'activer
+
+> Is it the notetaking system that’s helping you think more clearly? Or is it the act of writing that forces you to clarify your thoughts? [[@bjarnasonOnlineCollaborationOur2022]]
+
+
+
+
+
 
 
