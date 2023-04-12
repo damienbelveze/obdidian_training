@@ -11,7 +11,7 @@ Présentation de la méthode Zettelkasten
 
 ## premières notes avec Obsidian
 
-lire rapidement le [[texte]]
+lire rapidement le [texte suivant sur les libertés académiques](https://obsidian.dbelveze.fr/assets/libertés_académiques.odt)
 
 Qu'avez-vous envie de retenir de ce texte ? Quelles notes vous prendriez après l'avoir lu ? Quels passages vous ont marqués ? 
 
@@ -51,7 +51,7 @@ Pour en savoir plus sur la gestion des images, aller sur la note [gérer les ima
 
 ### ajouter un tableau
 
-ajouter le tableau [importation de pommes](https://uniren1-my.sharepoint.com/:x:/g/personal/damien_belveze_univ-rennes1_fr/ESvDL0wh7fZPqQL_gnJ_nn0BP-mWBIZQo9lbSPvas1txZA?e=Xco12y)
+ajouter le tableau [importation de pommes](https://obsidian.dbelveze.fr/assets/importation_pommes.ods)
 
 Au choix, rédiger ce tableau en markdown ou bien utiliser le service en ligne [Table2markdown](https://tabletomarkdown.com/)
 
@@ -61,7 +61,9 @@ Consulter le [[Mode d'emploi d'Obsidian]] sur les tableaux (section 3.3)
 
 ### notes en markdown depuis Zotero
 
-Depuis la version 6 de Zotero, il est possible d'envoyer des notes 
+Depuis la version 6 de Zotero, il est possible d'envoyer des notes prises dans Zotero vers Obsidian
+
+(démonstration)
 
 ### le pluginbetterbibtex
 
