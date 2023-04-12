@@ -47,53 +47,14 @@ Deux précautions à prendre :
 	<img  src="assets/390px_Fariba.jpg">
 </p>
 
+Pour en savoir plus sur la gestion des images, aller sur la note [[gérer les images]]
 
-centrer cette image et en réduire la largeur en ajoutant un peu de balisage html : 
+### ajouter un tableau
 
-``![Fariba Adelkhak](images/390px_Fariba.jpg){width=200px}``
+ajouter le tableau [importation de pommes](https://uniren1-my.sharepoint.com/:x:/g/personal/damien_belveze_univ-rennes1_fr/ESvDL0wh7fZPqQL_gnJ_nn0BP-mWBIZQo9lbSPvas1txZA?e=Xco12y)
 
+Au choix, rédiger ce tableau en markdown ou bien utiliser le service en ligne [Table2markdown](https://tabletomarkdown.com/)
 
-<p align="left">
-	<img width="200" src="assets/390px_Fariba.jpg">
-</p>
+Consulter le [[Mode d'emploi d'Obsidian]] sur les tableaux (section 3.3)
 
-Pour déplacer l'image au centre, il faut recourir au html : 
-
-````html
-<p align="center">
- <img alt="Fariba Adelkhak" width="200" src="assets/390px_fariba.jpg">
-</p>
-````
-
-<p align="center">
- <img  src="assets/390px_fariba.jpg" width="200">
-</p>
-
-et pour avoir la légende : 
-
-
-
-````html
-<figure>
-	<p align="center">
-		<img alt="Fariba Adelkhak" width="200" src="assets/390px_fariba.jpg">
-		<figcaption>Fariba Adelkhak </figcaption>
-	</p>
-</figure>
-````
-
-
-
-<figure>
-	<p align="center">
-		<img alt="Fariba Adelkhak" width="200" src="assets/390px_fariba.jpg">
-		<figcaption>Fariba Adelkhak </figcaption>
-	</p>
-</figure>
-
-
-Ce dernier point montre que : 
-
-- le markdown ne peut pas prendre en charge toute l'apparence du texte : il faut y ajouter du balisage HTML et ou des feuilles de style (CSS)
-- le markdown peut intégrer plusieurs langages pour la mise en page ou l'édition, les plus utilisés sont le HTML, le CSS et le LaTeX. 
 
