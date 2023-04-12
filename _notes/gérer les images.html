@@ -4,7 +4,8 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>déroulé de la formation</title>
+  <meta name="dcterms.date" content="2023-12-04" />
+  <title>gérer les images</title>
   <style>
     html {
       line-height: 1.5;
@@ -228,70 +229,34 @@
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">déroulé de la formation</h1>
+<h1 class="title">gérer les images</h1>
+<p class="date">12/04/2023</p>
 </header>
-<h2 id="introduction">Introduction</h2>
-<p>Présentation de la méthode Zettelkasten</p>
-<ul>
-<li>Créer un coffre avec Obsidian (suivre la démo)</li>
-</ul>
-<h2 id="premières-notes-avec-obsidian">premières notes avec
-Obsidian</h2>
-<p>lire rapidement le [[texte]]</p>
-<p>Qu’avez-vous envie de retenir de ce texte ? Quelles notes vous
-prendriez après l’avoir lu ? Quels passages vous ont marqués ?</p>
-<p>Synthétisez trois éléments que vous a apportés cet article sous la
-forme de trois notes</p>
-<p>Pourriez-vous faire un lien d’une note à une autre ?</p>
-<p>Visualisez les liens avec le graphe</p>
-<h2 id="prendre-en-main-la-syntaxe-markdown">prendre en main la syntaxe
-markdown</h2>
-<h3 id="comment-mettre-en-forme-du-texte-en-markdown.">Comment mettre en
-forme du texte en Markdown.</h3>
-<p>Consultez notre [[Mode d’emploi d’Obsidian]] (à partir du paragraphe
-3.2) Tester dans votre note l’italique, le gras, le surligné. faites une
-citation du texte en utilisant la balise correspondante.</p>
-<h3 id="ajouter-une-image">ajouter une image</h3>
-<p>Créez dans votre coffre (répertoire) un dossier <em>Images</em>. (il
-est préférable pour la gestion quotidienne de vos fichiers de séparer
-les notes en mardown et les images)</p>
-<p>allez chercher une image de Fariba Adelkhak pour illustrer l’une de
-vos notes. utilisez la syntaxe- suivante : ![legende](chemin vers
-l’image)</p>
-<p>Deux précautions à prendre :</p>
-<ul>
-<li>Pour les conversions avec Pandoc, il vaut mieux que le chemin
-comporte le nom du dossier (<em>images</em>)</li>
-<li>laisser un saut de ligne entre le paragraphe et l’image, sinon cette
-image ne va pas correctement s’afficher et la légende ne s’affichera pas
-après la conversion (nous verrons dans la deuxième partie)</li>
-</ul>
-<figure>
-<img src="images/390px_Fariba.jpg" alt="Fariba Adelkhak" />
-<figcaption aria-hidden="true">Fariba Adelkhak</figcaption>
-</figure>
+<p align="left">
+  <img src="images/390px_Fariba.jpg">
+</p>
 <p>centrer cette image et en réduire la largeur en ajoutant un peu de
 balisage html :</p>
-<figure>
-<img src="images/390px_Fariba.jpg" width="200" alt="Fariba Adelkhak" />
-<figcaption aria-hidden="true">Fariba Adelkhak</figcaption>
-</figure>
+<p><code>![Fariba Adelkhak](images/390px_Fariba.jpg){width=200px}</code></p>
+<p align="left">
+<img width="200" src="images/390px_Fariba.jpg">
+</p>
 <p>Pour déplacer l’image au centre, il faut recourir au html :</p>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode html"><code class="sourceCode html"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;p</span> <span class="er">align</span><span class="ot">=</span><span class="st">&quot;center&quot;</span><span class="kw">&gt;</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;img</span> <span class="er">alt</span><span class="ot">=</span><span class="st">&quot;Fariba Adelkhak&quot;</span> <span class="er">width</span><span class="ot">=</span><span class="st">&quot;200&quot;</span> <span class="er">src</span><span class="ot">=</span><span class="st">&quot;images/390px_fariba.jpg&quot;</span><span class="kw">&gt;</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a> <span class="kw">&lt;img</span> <span class="er">alt</span><span class="ot">=</span><span class="st">&quot;Fariba Adelkhak&quot;</span> <span class="er">width</span><span class="ot">=</span><span class="st">&quot;200&quot;</span> <span class="er">src</span><span class="ot">=</span><span class="st">&quot;assets/390px_fariba.jpg&quot;</span><span class="kw">&gt;</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/p&gt;</span></span></code></pre></div>
 <p align="center">
-<img aalt="Fariba Adelkhak" width="200" src="images/390px_fariba.jpg">
+<img  src="images/390px_fariba.jpg" width="200">
 </p>
 <p>et pour avoir la légende :</p>
 <div class="sourceCode" id="cb2"><pre
-class="sourceCode html"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;p</span> <span class="er">align</span><span class="ot">=</span><span class="st">&quot;center&quot;</span><span class="kw">&gt;</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    <span class="kw">&lt;figure&gt;</span></span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>        <span class="kw">&lt;img</span> <span class="er">alt</span><span class="ot">=</span><span class="st">&quot;Fariba Adelkhak&quot;</span> <span class="er">width</span><span class="ot">=</span><span class="st">&quot;200&quot;</span> <span class="er">src</span><span class="ot">=</span><span class="st">&quot;images/390px_fariba.jpg&quot;</span><span class="kw">&gt;</span></span>
+class="sourceCode html"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;figure&gt;</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    <span class="kw">&lt;p</span> <span class="er">align</span><span class="ot">=</span><span class="st">&quot;center&quot;</span><span class="kw">&gt;</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>        <span class="kw">&lt;img</span> <span class="er">alt</span><span class="ot">=</span><span class="st">&quot;Fariba Adelkhak&quot;</span> <span class="er">width</span><span class="ot">=</span><span class="st">&quot;200&quot;</span> <span class="er">src</span><span class="ot">=</span><span class="st">&quot;assets/390px_fariba.jpg&quot;</span><span class="kw">&gt;</span></span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>        <span class="kw">&lt;figcaption&gt;</span>Fariba Adelkhak <span class="kw">&lt;/figcaption&gt;</span></span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    <span class="kw">&lt;/figure&gt;</span></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/p&gt;</span></span></code></pre></div>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    <span class="kw">&lt;/p&gt;</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/figure&gt;</span></span></code></pre></div>
 <figure>
 <p align="center">
 <img alt="Fariba Adelkhak" width="200" src="images/390px_fariba.jpg">
@@ -300,5 +265,13 @@ Fariba Adelkhak
 </figcaption>
 </p>
 </figure>
+<p>Ce dernier point montre que :</p>
+<ul>
+<li>le markdown ne peut pas prendre en charge toute l’apparence du texte
+: il faut y ajouter du balisage HTML et ou des feuilles de style
+(CSS)</li>
+<li>le markdown peut intégrer plusieurs langages pour la mise en page ou
+l’édition, les plus utilisés sont le HTML, le CSS et le LaTeX.</li>
+</ul>
 </body>
 </html>

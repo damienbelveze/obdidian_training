@@ -51,3 +51,4 @@ Ce dernier point montre que :
 
 - le markdown ne peut pas prendre en charge toute l'apparence du texte : il faut y ajouter du balisage HTML et ou des feuilles de style (CSS)
 - le markdown peut intégrer plusieurs langages pour la mise en page ou l'édition, les plus utilisés sont le HTML, le CSS et le LaTeX. 
+

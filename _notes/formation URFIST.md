@@ -47,7 +47,7 @@ Deux précautions à prendre :
 	<img  src="assets/390px_Fariba.jpg">
 </p>
 
-Pour en savoir plus sur la gestion des images, aller sur la note [[gérer les images]]
+Pour en savoir plus sur la gestion des images, aller sur la note [gérer les images](gérer les images.html)
 
 ### ajouter un tableau
 
