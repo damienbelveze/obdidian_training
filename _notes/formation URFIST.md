@@ -59,4 +59,16 @@ Consulter le [[Mode d'emploi d'Obsidian]] sur les tableaux (section 3.3)
 
 ## ajouter des citations
 
+### notes en markdown depuis Zotero
+
+Depuis la version 6 de Zotero, il est possible d'envoyer des notes 
+
 ### le pluginbetterbibtex
+
+Ce qui suit se fait à partir de Zotero. 
+
+- Aller sur le [répertoire où se trouve le plugin](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.71)
+- télécharger le plugin et le charger dans Zotero (comme extension)
+- 
+
+
