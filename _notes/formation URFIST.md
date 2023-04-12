@@ -4,8 +4,9 @@ title: déroulé de la formation
 
 ## Introduction
 
-- Créer un coffre avec Obsidian
+Présentation de la méthode Zettelkasten
 
+- Créer un coffre avec Obsidian (suivre la démo)
 
 
 ## premières notes avec Obsidian
@@ -22,7 +23,40 @@ Visualisez les liens avec le graphe
 
 ## prendre en main la syntaxe markdown
 
-Comment mettre en forme du texte en Markdown. Consultez notre [[Mode d'emploi d'Obsidian]] (à partir du paragraphe 3.2)
+### Comment mettre en forme du texte en Markdown. 
 
-ajouter une image : allez chercher une image de 
+Consultez notre [[Mode d'emploi d'Obsidian]] (à partir du paragraphe 3.2)
+Tester dans votre note l'italique, le gras, le surligné. 
+faites une citation du texte en utilisant la balise correspondante. 
+
+### ajouter une image
+
+Créez dans votre coffre (répertoire) un dossier *Images*.
+(il est préférable pour la gestion quotidienne de vos fichiers de séparer les notes en mardown et les images)
+
+allez chercher une image de Fariba Adelkhak pour illustrer l'une de vos notes. 
+utilisez la syntaxe- suivante : \!\[legende\]\(chemin vers l'image\)
+
+Deux précautions à prendre : 
+
+- Pour les conversions avec Pandoc, il vaut mieux que le chemin comporte le nom du dossier (*images*)
+- laisser un saut de ligne entre le paragraphe et l'image, sinon cette image ne va pas correctement s'afficher et la légende ne s'affichera pas après la conversion (nous verrons dans la deuxième partie)
+
+![Fariba Adelkhak](images/390px_Fariba.jpg)
+
+centrer cette image et en réduire la largeur en ajoutant un peu de balisage html : 
+
+![Fariba Adelkhak](images/390px_Fariba.jpg){width=200px}
+
+Pour déplacer l'image au centre, il faut recourir au html : 
+
+````html
+<p align="center">
+<img alt="Fariba Adelkhak" width="200" src="images/390px_fariba.jpg">
+</p>
+````
+
+<p align="center">
+<img aalt="Fariba Adelkhak" width="200" src="images/390px_fariba.jpg">
+</p>
 
