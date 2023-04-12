@@ -42,11 +42,15 @@ Deux précautions à prendre :
 - Pour les conversions avec Pandoc, il vaut mieux que le chemin comporte le nom du dossier (*images*)
 - laisser un saut de ligne entre le paragraphe et l'image, sinon cette image ne va pas correctement s'afficher et la légende ne s'affichera pas après la conversion (nous verrons dans la deuxième partie)
 
+
 <img align="left" src="assets/390px_Fariba.jpg">
+
 
 centrer cette image et en réduire la largeur en ajoutant un peu de balisage html : 
 
+
 ``![Fariba Adelkhak](images/390px_Fariba.jpg){width=200px}``
+
 
 <img align="left" width="200" src="assets/390px_Fariba.jpg">
 
@@ -58,9 +62,11 @@ Pour déplacer l'image au centre, il faut recourir au html :
 </p>
 ````
 
+
 <p align="center">
  <img  src="assets/390px_fariba.jpg" width="200">
 </p>
+
 
 et pour avoir la légende : 
 
@@ -76,12 +82,14 @@ et pour avoir la légende :
 ````
 
 
+
 <figure>
 	<p align="center">
 		<img alt="Fariba Adelkhak" width="200" src="assets/390px_fariba.jpg">
 		<figcaption>Fariba Adelkhak </figcaption>
 	</p>
 </figure>
+
 
 Ce dernier point montre que : 
 
