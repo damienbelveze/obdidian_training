@@ -44,7 +44,7 @@ Deux précautions à prendre :
 
 
 <p align="left">
-	<img src="assets/390px_Fariba.jpg">
+	<img align="left"  src="assets/390px_Fariba.jpg">
 </p>
 
 centrer cette image et en réduire la largeur en ajoutant un peu de balisage html : 
@@ -52,7 +52,7 @@ centrer cette image et en réduire la largeur en ajoutant un peu de balisage htm
 ``![Fariba Adelkhak](images/390px_Fariba.jpg){width=200px}``
 
 <p align="left">
-<img width="200" src="assets/390px_Fariba.jpg">
+	<img width="200" src="assets/390px_Fariba.jpg">
 </p>
 
 Pour déplacer l'image au centre, il faut recourir au html : 
