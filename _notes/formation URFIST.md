@@ -166,7 +166,25 @@ On peut utiliser pandoc et la suite LaTeX installée sur l'ordinateur pour conve
 
 convertir une note en markdown avec des images et selon une CSS
 
+Voir la note sur les [[markdown vers HTML|procédures-bâillons]]
 
+pour convertir un fichier et les images liées, la ligne de commande est la suivante : 
+
+```shell
+pandoc -S note.md -o note.html
+```
+
+l'argument -s (--standalone) est nécessaire pour convertir à la fois le fichier maître et les fichiers qui lui sont liés. 
+
+On peut observer le résultat <a href="assets/markdown vers HTML.htm">en suivant ce lien</a>
+
+Pour ajouter une CSS, on va utiliser en plus l'argument -H qui permet d'encapsuler une feuille de style (entre des balises "style") dans l'entête (header) du document créé, ce qui permettre de lui appliquer cette feuille de style
+
+```shell
+pandoc -S note.md -H feuille.css -o note.html
+```
+
+Si on applique à notre note <a href="assets/essai.css">cette feuille de style</a> , on obtient <a href="assets/markdown vers HTML avec CSS.htm">le résultat suivant</a>
 
 ### conversions d'un document avec des références bibliographiques
 
