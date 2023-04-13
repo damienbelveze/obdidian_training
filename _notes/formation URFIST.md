@@ -41,7 +41,8 @@ Créez dans votre coffre (répertoire) un dossier *Images*.
 (il est préférable pour la gestion quotidienne de vos fichiers de séparer les notes en mardown et les images)
 
 allez chercher une image de Fariba Adelkhak pour illustrer l'une de vos notes. 
-utilisez la syntaxe- suivante : \!\[legende\]\(chemin vers l'image\)
+Insérez la dans le dossier image nouvellement créé
+utilisez la syntaxe- suivante : \!\[legende\]\(images/nomdefichierdelimage.png\)
 
 Deux précautions à prendre : 
 
