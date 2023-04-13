@@ -8,6 +8,8 @@ tags: [guide_obsidian]
 
 ![](images/tweet_schaller.png){width=50%}]]
 
+<img src="/assets/tweet_schaller.png">
+
 ## 1. intérêts de la prise de note pour le travail intellectuel
 
 une application de prise de notes doit être jugée selon la manière dont elle remplit les fonctions propres à la prise de notes et qui sont comme le rappelle Baldur Bjarnasson la créativité, la connaissance et la compréhension (*creativity*, *knowledge*, *understanding*)[[@bjarnasonDifferentKindsNotes20220621]] : 

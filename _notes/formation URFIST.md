@@ -50,7 +50,7 @@ Deux précautions à prendre :
 
 
 <p align="left">
-	<img  src="assets/390px_Fariba.jpg">
+	<img  src="/assets/390px_Fariba.jpg">
 </p>
 
 Pour en savoir plus sur la gestion des images, aller sur la note [gérer les images](gérer les images.html)
