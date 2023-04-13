@@ -1,7 +1,7 @@
 ---
-titre: Enquêter: de quel droit ?
+titre: "Enquêter: de quel droit ?"
 auteurs: Sylvain Laurens, Frédéric Neyrat
 année: 2010
-lien: 
+lien: [https://www.sudoc.fr/14771947X](https://www.sudoc.fr/14771947X)
 ---
 
