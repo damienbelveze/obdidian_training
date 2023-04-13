@@ -7,7 +7,7 @@ date: 13 avril 2023
 
 ## Les sondages de l'IFOP
 
-<img src="alexandre_deze.jpg" width="500">
+<img src="assets/alexandre_deze.jpg" width="500">
 
 En avril 2022, le chercheur Alexandre Dezé est poursuivi par l'IFOP, le célèbre institut de sondage pour avoir critiqué la méthode utilisé par l'Institut dans plusieurs sondages dont un réalisé à la suite des attentats de Charlie-Hebdo. 
 
