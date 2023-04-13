@@ -163,6 +163,9 @@ On peut utiliser pandoc et la suite LaTeX installée sur l'ordinateur pour conve
 
 ### premières conversions avec Pandoc
 
+convertir une note en markdown avec des images et selon une CSS
+
+
 
 ### conversions d'un document avec des références bibliographiques
 
