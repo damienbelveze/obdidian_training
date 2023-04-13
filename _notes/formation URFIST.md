@@ -5,18 +5,19 @@ date: 11/04/2023
 
 ## Introduction
 
-[[Obsidian pour la prise de notes|Intérêt d'Obsidian pour la gestion de ses notes]]
+- tour de table  
+- [[Obsidian pour la prise de notes|Panorama des usages possibles d'Obsidian]]
+- Présentation de la [[Methode Zettelkasten]]
 
-Présentation de la méthode Zettelkasten
-
-- Créer un coffre avec Obsidian (suivre la démo)
-
+Créer un coffre avec Obsidian (suivre la démo)
 
 ## 1. premières notes avec Obsidian
 
 lire rapidement le [texte suivant sur les libertés académiques](https://obsidian.dbelveze.fr/assets/libertés_académiques.odt)
 
-Qu'avez-vous envie de retenir de ce texte ? Quelles notes vous prendriez après l'avoir lu ? Quels passages vous ont marqués ? 
+Qu'avez-vous envie de retenir de ce texte ?
+Quelles notes prendriez-vous après l'avoir lu ? 
+Quels passages vous ont marqués ? 
 
 Synthétisez trois éléments que vous a apportés cet article sous la forme de trois notes
 
