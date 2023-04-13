@@ -22,17 +22,17 @@ Luhmann est-il devenu un génie parce qu'il a inventé un système de notes comp
 
 ---
 
- <img src="assets/zettelkasten1B.png">       
+ <img src="https://obsidian.dbelveze.fr/assets/zettelkasten1B.png">       
 Notes prises dans la matrice (exemple : un cahier imprimé) 
 
 ---
 
-<img src="assets/zettelkasten2B.png">
+<img src="https://obsidian.dbelveze.fr/assets/zettelkasten2B.png">
 notes volantes, pas de liens (exemple : des post-its)
 
 ---
 
-<img src="assets/zettelkasten3B.png">
+<img src="https://obsidian.dbelveze.fr/assets/zettelkasten3B.png">
 notes rangées par catégories / dossiers 
 
 ---
@@ -43,7 +43,7 @@ notes rangées par catégories / dossiers
 
 ---
 
-<img src="assets/zettelkasten4B.png">
+<img src="https://obsidian.dbelveze.fr/assets/zettelkasten4B.png">
 notes rangées par tags 
 
 ---
@@ -54,7 +54,7 @@ notes rangées par tags
 
 ---
 
- <img src="assets/zettelkasten5B.png">
+ <img src="https://obsidian.dbelveze.fr/assets/zettelkasten5B.png">
 notes rangées liées par des liens et des rétroliens
 
 ---
@@ -68,13 +68,13 @@ notes rangées liées par des liens et des rétroliens
 ---
 
  
-<img src="assets/zettelkasten7.jpg">
+<img src="https://obsidian.dbelveze.fr/assets/zettelkasten7.jpg">
 
 arborescence ou horizontalité ?
 
 ---
 
-<img src="assets/zettelkasten8B.png">
+<img src="https://obsidian.dbelveze.fr/assets/zettelkasten8B.png">
 
 --- 
 
@@ -86,6 +86,6 @@ arborescence ou horizontalité ?
 	
 ---
 
-<img src="assets/graphe_obsidian2.png">
+<img src="https://obsidian.dbelveze.fr/assets/graphe_obsidian2.png">
 
 ---
