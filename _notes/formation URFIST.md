@@ -12,7 +12,7 @@ Présentation de la méthode Zettelkasten
 - Créer un coffre avec Obsidian (suivre la démo)
 
 
-## premières notes avec Obsidian
+## 1. premières notes avec Obsidian
 
 lire rapidement le [texte suivant sur les libertés académiques](https://obsidian.dbelveze.fr/assets/libertés_académiques.odt)
 
@@ -24,7 +24,7 @@ Pourriez-vous faire un lien d'une note à une autre ?
 
 Visualisez les liens avec le graphe
 
-## prendre en main la syntaxe markdown
+## 2. prendre en main la syntaxe markdown
 
 
 ### Comment mettre en forme du texte en Markdown. 
@@ -61,9 +61,11 @@ ajouter le tableau [importation de pommes](https://obsidian.dbelveze.fr/assets/i
 Au choix, rédiger ce tableau en markdown ou bien utiliser le service en ligne [Table2markdown](https://tabletomarkdown.com/)
 
 
-## Les plugins dans Obsidian
+## 3. Les plugins dans Obsidian
 
 La richesse d'Obsidian tient au nombre en croissance rapide des plugins qui rendent cet outil adaptable à un grand nombre de tâches. 
+
+### plugins par défaut et plugins communautaires
 
 Il existe deux types de plugins : 
 
@@ -72,22 +74,29 @@ Il existe deux types de plugins :
 
 Les premiers sont installés en même temps qu'Obsidian, il ne reste plus qu'à les activer si on souhaite s'en servir.
 
-Les seconds nécessitent la désactivation du mode sans échec (aller dans les paramètres > plugins tiers > désactiver le mode sans échec).
+Les seconds nécessitent la **désactivation du mode sans échec** (aller dans les paramètres > plugins tiers > désactiver le mode sans échec).
 A partir de là, pour trouver un plugin communautaire : 
 
 - soit on passe par le catalogue des plugins depuis Obsidian (parcourir la liste des plugins communautaires)
-- soit on va chercher le plugin sur github, là où il a été déposé par le concepteur. C'est sur github, par exemple, qu'on doit aller chercher le plugin qui permet de faire un export d'une note depuis Obsidian en PDF à l'aide de Pandoc. 
+- soit on va chercher le plugin sur github, là où il a été déposé par le concepteur. 
 
 Quelque soit le type de plugin, on peut paramétrer leur utilisation dans les paramètres une fois qu'il a été installé et activé (dans les Paramètres, descendre jusqu'au menu *option des plugins*)
 
-Il est très utile de paramétrer des **raccourcis-clavier** pour chaque fonctionnalité appartenant ou non à un plugin. Cela fait gagner beaucoup de temps au quotidien (paramètres > options > raccourcis-clavier ; chercher la fonctionnalité par son nom et lui associer une combinaison de touches ; par exemple créer un graphique local à partir de la note ouverte = shift+Ctrl+G).
+### Raccourcis clavier
 
-chaque plugin chargé est associé à un coffre en particulier et si vous avez plusieurs coffres, il faudra charger à l'intérieur de chacun d'eux un même plugin. Cela se voit bien au niveau de l'arborescence Windows : le logiciel Obsidian est chargé par défaut au niveau du C:/Programmes, les coffres sont hébergés ailleurs (où l'utilisateur le souhaite), dans ces coffres, les plugins se trouvent sous .obsidian > plugins
+Il est très utile de paramétrer des **raccourcis-clavier** pour chaque fonctionnalité appartenant ou non à un plugin. Cela fait gagner beaucoup de temps au quotidien
+(paramètres > options > raccourcis-clavier ; chercher la fonctionnalité par son nom et lui associer une combinaison de touches ; par exemple créer un graphique local à partir de la note ouverte = shift+Ctrl+G).
+
+### les plugins sont liés aux coffres
+
+**chaque plugin chargé est associé à un coffre en particulier et si vous avez plusieurs coffres, il faudra charger à l'intérieur de chacun d'eux un même plugin**.
+
+Cela se voit bien au niveau de l'arborescence Windows : le logiciel Obsidian est chargé par défaut au niveau du C:/Programmes, les coffres sont hébergés ailleurs (où l'utilisateur le souhaite), dans ces coffres, les plugins se trouvent sous .obsidian > plugins
 
 Plus d'information sur les [[Les plugins par défaut]]
 
 
-## ajouter des citations
+## 4. ajouter des citations
 
 ### notes en markdown depuis Zotero
 
@@ -123,7 +132,7 @@ illustration d'une citation assortie de sa référence.
 
 **ajouter la référence à l'article d'AOC sur les libertés académiques à l'une de vos notes**
 
-## L'importance de l'entête en yaml
+## 5. L'importance de l'entête en yaml
 
 Les informations qui décrivent la note (=métadonnées) peuvent être encapsulées en tête de note. 
 On peut y trouver les informations suivantes : 
@@ -144,13 +153,19 @@ tags: [économie politique, anticapitalisme]
 aliases: [Le Capital, The Capital]
 ````
 
-## Convertir des fichiers markdown
+## 6. Convertir des fichiers markdown
+
 
 On peut exporter une note prise avec Obsidian directement depuis l'éditeur (exporter en PDF), mais dans ce cas, les références présentes dans le texte et la bibliographie ne seront pas prises en compte
 
 On peut utiliser pandoc et la suite LaTeX installée sur l'ordinateur pour convertir des fichiers en markdown. On peut simplement utiliser Pandoc pour tous les autres formats de sortie.
 
+### premières conversions avec Pandoc
 
+
+### conversions d'un document avec des références bibliographiques
+
+voir [[markdown vers PDF|exemple fourni sur ce site]]
 
 
 
