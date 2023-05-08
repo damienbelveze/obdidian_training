@@ -166,7 +166,7 @@ On peut utiliser pandoc et la suite LaTeX installée sur l'ordinateur pour conve
 
 convertir une note en markdown avec des images et selon une CSS
 
-Voir la note sur les [[markdown vers HTML|procédures bâillons]]
+Voir la note sur les [[markdown vers HTML|procédures baillons]]
 
 pour convertir un fichier et les images liées, la ligne de commande est la suivante : 
 
