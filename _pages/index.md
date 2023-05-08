@@ -7,10 +7,10 @@ permalink: /
 
 # Prendre en main Obsidian
 
-<img src="/assets/drawing1.png" alt="image réalisée avec dall-e" width="500">
+<a href="https://flic.kr/p/7z2a5q"><img src="assets/medea.jpg" alt="Photo : Medea (de Malmö)" width="500"></a>
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Accéder au support de la<span style="font-weight: bold">[[formation URFIST]]</span> pour visualiser et télécharger les fichiers utiles à la formation
+  Accéder au support de la<span style="font-weight: bold">[[formation]]</span> pour visualiser et télécharger les fichiers utiles à la formation
 </p>
 
 
